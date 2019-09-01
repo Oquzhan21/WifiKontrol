@@ -1,0 +1,9 @@
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\bin\Debug\İnternetKontrolu.exe.config
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\bin\Debug\İnternetKontrolu.exe
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\bin\Debug\İnternetKontrolu.pdb
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\obj\Debug\İnternetKontrolu.csprojResolveAssemblyReference.cache
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\obj\Debug\İnternetKontrolu.Form1.resources
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\obj\Debug\İnternetKontrolu.Properties.Resources.resources
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\obj\Debug\İnternetKontrolu.csproj.GenerateResource.Cache
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\obj\Debug\İnternetKontrolu.exe
+C:\Users\Oquzhan21\Desktop\İnternetKontrolu\İnternetKontrolu\obj\Debug\İnternetKontrolu.pdb
